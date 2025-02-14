@@ -20,7 +20,7 @@ docker network create kube_news_net
 ```
 ### Criando volume para o BD
 ```
-Docker volume create kubenews_vol
+docker volume create kubenews_vol
 ```
 
 ### Criando o banco de dados Postegres
